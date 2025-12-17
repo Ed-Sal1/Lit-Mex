@@ -41,4 +41,20 @@ h1{
 img{
     height: 100px;
 }
+#apartado-a-que-famoso-te-pareces{
+    align-content: center;
+    align-items: center;
+    text-align: center;    
+}
+#formulario{
+    align-content: center;
+    align-items: center;
+    text-align: center;    
+}
+
+#checkDefault{
+    align-content: center;
+    align-items: center;
+    text-align: center; 
+}
 
